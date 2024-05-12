@@ -1,1 +1,8 @@
+"no main manifest attribute, in" hatası aldığında pom parent ekle:
+<parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.0.5</version>
+        <relativePath/> <!-- lookup parent from repository -->
+</parent>
 
