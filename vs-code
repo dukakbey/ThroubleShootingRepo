@@ -1,0 +1,1 @@
+maven install 'de executable bulamıyorsa eğer settings.json'a ekle: "maven.executable.path": "C:/Users/sc/.m2/wrapper/dists/apache-maven-3.9.6-bin/439sdfsg2nbdob9ciift5h5nse/apache-maven-3.9.6/bin/mvn",
